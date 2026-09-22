@@ -1,0 +1,20 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.gch
+*.pdb
+*.ilk
+
+# CMake / 构建目录
+build/
+cmake-build-*/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器/IDE 本地状态
+.vs/
+.idea/

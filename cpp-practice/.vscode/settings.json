@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt (UTF-8)": {
+            "path": "cmd.exe",
+            "args": [
+                "/k",
+                "chcp 65001 >nul"
+            ],
+            "icon": "terminal-cmd"
+        },
+        "PowerShell": {
+            "source": "PowerShell"
+        }
+    },
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true
+}
