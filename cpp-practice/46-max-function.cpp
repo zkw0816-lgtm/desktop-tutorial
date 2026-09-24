@@ -1,4 +1,4 @@
-// Max函数
+// Max函数，判断4和6谁大，20和（4，6）谁大
 #include<cstdio>
 #include<iostream>
 using namespace std;
