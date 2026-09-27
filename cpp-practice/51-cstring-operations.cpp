@@ -8,7 +8,7 @@ int main()
     char hero[100]="Michael Scofield";
     char prisonName[100];
     char response[100];
-    cout<<"What's the name of the prison in"<<title<<endl;
+    cout<<"What's the name of the prison in "<<title<<endl;
     cin>>prisonName;
     if(strcmp(prisonName,"Fox-River")==0)
     cout<<"Yeah!Do you love"<<hero<<endl;
